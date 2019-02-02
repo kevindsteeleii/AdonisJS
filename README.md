@@ -1,0 +1,2 @@
+## AdonisJS MVC Node Framework Workout
+An "active record" if you will of my efforts to learn this laravel-esque/rails-esque Node Framework. If/when this grows too **big**, I'll just submodule this thing to pieces. 
